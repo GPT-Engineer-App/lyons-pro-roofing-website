@@ -15,7 +15,7 @@ const Index = () => {
         <Text textAlign="center" maxW="container.md">
           At Lyons Pro Roofing, we pride ourselves on delivering top-quality roofing services tailored to your needs. Whether you need a new roof installation, repair, or maintenance, our team of experienced professionals is here to ensure your roof is in perfect condition.
         </Text>
-        <Button leftIcon={<FaPhoneAlt />} colorScheme="teal" size="lg">
+        <Button leftIcon={<FaPhoneAlt />} colorScheme="blue" size="lg" variant="solid">
           Call Us Now
         </Button>
       </VStack>
